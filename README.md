@@ -44,3 +44,7 @@ php artisan migrate --seed
 
 # Jalankan server
 php artisan serve
+
+---
+
+![Dashboard](Dashboard.png)
