@@ -27,6 +27,21 @@ Proyek ini dibuat untuk membantu toko dalam **mencatat transaksi secara digital*
 ### Dashboard
 ![Dashboard](https://raw.githubusercontent.com/apinisa/berkahsabilulungan/main/dashboard.png)
 
+### Supplier
+![Supplier](https://raw.githubusercontent.com/apinisa/berkahsabilulungan/main/supplier.png)
+
+### Produk
+![Produk](https://raw.githubusercontent.com/apinisa/berkahsabilulungan/main/produk.png)
+
+### Purchase Order
+![Purchase Order](https://raw.githubusercontent.com/apinisa/berkahsabilulungan/main/purchase-order.png)
+
+### Penjualan
+![Penjualan](https://raw.githubusercontent.com/apinisa/berkahsabilulungan/main/penjualan.png)
+
+### Laporan
+![Laporan](https://raw.githubusercontent.com/apinisa/berkahsabilulungan/main/laporan-labarugi.png)
+
 ---
 ## 🚀 Instalasi
 Ikuti langkah berikut untuk menjalankan proyek secara lokal:
