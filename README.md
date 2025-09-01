@@ -22,6 +22,12 @@ Proyek ini dibuat untuk membantu toko dalam **mencatat transaksi secara digital*
 
 ---
 
+## 📸 Screenshots
+
+### Dashboard
+![Dashboard](https://raw.githubusercontent.com/apinisa/berkahsabilulungan/main/dashboard.png)
+
+---
 ## 🚀 Instalasi
 Ikuti langkah berikut untuk menjalankan proyek secara lokal:
 
@@ -46,11 +52,3 @@ php artisan migrate --seed
 php artisan serve
 
 ---
-
-## 📸 Screenshots
-
-### Dashboard
-(![Dashboard](https://raw.githubusercontent.com/apinisa/berkahsabilulungan/main/dashboard.png))
-
-### Form Supplier
-![Supplier](assets/screenshots/supplier.png)
