@@ -47,4 +47,10 @@ php artisan serve
 
 ---
 
-![Dashboard](Dashboard.png)
+## 📸 Screenshots
+
+### Dashboard
+![Dashboard](dashboard.png)
+
+### Form Supplier
+![Supplier](assets/screenshots/supplier.png)
