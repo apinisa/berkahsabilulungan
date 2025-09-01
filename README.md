@@ -50,7 +50,7 @@ php artisan serve
 ## 📸 Screenshots
 
 ### Dashboard
-![Dashboard](https://github.com/apinisa/berkahsabilulungan/blob/b59f6e7280ad7d6370bf813c36ff1e515d53bc51/dashboard.png)
+(![Dashboard](https://raw.githubusercontent.com/apinisa/berkahsabilulungan/main/dashboard.png))
 
 ### Form Supplier
 ![Supplier](assets/screenshots/supplier.png)
